@@ -1,5 +1,5 @@
 # A Closer Look Of Swindles In Chess
-For those less familiar with the term "swindle", this is winning a chess game that 
+For those less familiar with the term "swindle", this is where a player wins an "undeserved game". The opponent is winning the majority of the game, only to completely let go of their advantage.
 
 
 Recently [books](https://www.amazon.com/Complete-Chess-Swindler-Points-Positions/dp/9056919113/ref=sr_1_4?crid=3W3KRYLEVGMRW&keywords=swindling+chess&qid=1652719878&sprefix=swindling+chess%2Caps%2C88&sr=8-4) have come out around the art of swindling in chess. Its an unavoidable phenomenon that haunts us all, or gives us something to play for. I couldnt seem to find the question **"What are my chances of swindling my opponent in a lost game?"** I tried to quantify this backed up by some statistics.
