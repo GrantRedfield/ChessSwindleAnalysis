@@ -38,4 +38,3 @@ When charting percent time left against the move number,  [we get a pretty neat 
 2. Psychologically its important to not give up. There will be opportunities throughout the game to turn things around in your losing games.
 
 
-All code used located [here](https://github.com/GrantRedfield/ChessSwindleAnalysis)
